@@ -1,3 +1,12 @@
+/*
+  Colour Palette
+  - Dark Blue: #009 - rgb(0,0,153)
+  - Teal: #09C - rgb(0,153,204)
+  - Neon Teal: #0CC - rgb(0,204,204)
+  - Light Neon: #0FC - rgb
+  - Grey: #666 - rgb(102,102,102)
+ */
+
 @charset "UTF-8";
 /* CSS Document */
 
@@ -6,8 +15,8 @@
 .btn:visited {
 	display: inline-block;
 	padding: 0.75em 1em;
-	background-color: #793284;
-	background-image: linear-gradient(to bottom, #793284, #571062);
+	background-color: #009;
+	background-image: linear-gradient(to bottom, #009, #09C);
 	border-radius: 4px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 	color: #fff;
