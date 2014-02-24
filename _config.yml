@@ -1,14 +1,2 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
-<!-- TemplateEndEditable -->
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
-</head>
-
-<body>
-</body>
-</html>
+markdown: redcarpet
+baseurl: /inclass-ecommerce
