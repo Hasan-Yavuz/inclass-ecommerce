@@ -1,2 +1,4 @@
 markdown: redcarpet
-baseurl: /inclass-ecommerce
+baseurl: /ecommerce-website
+permalink: pretty
+exclude: [README.md]
